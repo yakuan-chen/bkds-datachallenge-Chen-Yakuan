@@ -23,7 +23,7 @@ Once you have your clean data set, you should investigate any implicit patterns 
 
 ###3. Listing Price Prediction
 
-After exploring the data, your next task will be to create a supervised learning algorithm that predictes the price of an Airbnb listing in these markets. You must be able to justify your choice of features (variables) for any model you use, and discuss the process by which you validated your model (e.g., influential points, heteroscedasticity, collinearity, cross validation, etc.)
+After exploring the data, your next task will be to create a supervised learning algorithm that predictes the price of an Airbnb listing in these markets. You must be able to justify your choice of features (variables) for any model you use, and discuss the process by which you validated your model (e.g., influential points, heteroscedasticity, collinearity, PRESS, cross validation, etc.)
 
 ###4. Findings and Communication
 

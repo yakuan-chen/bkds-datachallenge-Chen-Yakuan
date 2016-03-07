@@ -20,7 +20,7 @@ Using either R or Python, create an API that will pull, clean, and normalize all
 ###2. Unsupervised Learning - Grouping, Dataset Reduction
 You'll need to investigate any implicit patterns in your constructed data set and possibly seek to reduce its dimensions.
 
-###3. Listing Price Prediction Supervised Learning
+###3. Listing Price Prediction - Supervised Learning
 
 Once you have your clean data set, you will be required to create a supervised learning algorithm that predictes the price of an Airbnb listing in these markets
 

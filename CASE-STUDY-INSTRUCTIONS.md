@@ -7,7 +7,7 @@ and they believe the listing data on Airbnb can be a useful proxy.
 Your job is to help this team assess the variability in pricing across Airbnb listings in the targeted cities,
 as well as discover any implicit relationships in the data. You will be required to to tell a story about the types of listings in these markets and identify any predictive patterns with which the property acquistion team can use for their deals.
 
-###1. Data Scraping, Cleaning, and Normalizing
+###1. Data Munging
 Using either R or Python, create a program that will pull, clean, and normalize all data that you deem relevant for a given Airbnb listing from each of the following urls:
   
   https://www.airbnb.com/s/New-York--NY

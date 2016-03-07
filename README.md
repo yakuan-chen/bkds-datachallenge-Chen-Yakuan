@@ -7,6 +7,8 @@ specific instructions and questions to Part 1).
 
 **Part 2: Data Analysis Case Study**. (Refer to *CASE-STUDY-INSTRUCTIONS.md* for the specific instructions to Part 2).
 
+Our aim with the data challenge is to assess both your conceptual understanding of statistics and data analysis, as well as your ability to work with real, messy data and makes sense of it, practically.
+
 ##General Instructions
 1. Clone this repo onto your desktop. **Do not fork this repo**.
 

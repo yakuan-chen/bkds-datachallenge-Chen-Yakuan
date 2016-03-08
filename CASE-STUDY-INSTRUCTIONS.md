@@ -2,7 +2,7 @@
 
 For the second part of the Brooklyn Data Science challenge, we want to get a sense of your ability to solve a real-world data science problem. Thus, you have two options for the case study:
 
-###Option 1: If you've recently completed a project, thesis, or dissertation that you believe demonstrates your proficiency in collecting and processing real-world data, designing the best methods to solve the problem, and implementing a solution, then you can simply submit your case study in lieu of our case study below. 
+###Option 1: If you've recently completed a project, thesis, or dissertation that you believe demonstrates i) your proficiency in collecting and processing real-world data, ii) designing the best methods to solve the problem, and iii) implementing a solution, then you can simply submit your case study in lieu of our case study below. 
 
 ###Option 2: Case Study
 

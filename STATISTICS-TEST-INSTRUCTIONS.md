@@ -5,8 +5,8 @@ This test assesses fundamental knowledge of statistics and probability.
 Please use either R or Python to complete this test. Your answers must be presented in a markdown (.md) file that is formatted for 
 HTML output.
 
-If you don't know how to answer a particular question, leave it blank. As with most tests, your problem solving method and approach is 
-more important than the end result.
+Answer every question to the best of your ability, and if you don't know the answer, please describe and articulate why. As with most tests, your problem solving method and approach is 
+just as important than the end result.
 
 If you need more clarity for any question, please email hello@brooklyndatascience.com. 
 

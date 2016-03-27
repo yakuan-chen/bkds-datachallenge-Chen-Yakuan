@@ -81,16 +81,12 @@ with a sample standard deviation of .8.
 Use at least 1000 randomly generated points.
 
 11. A particular area in Greenpoint contains 7600 residents. Robertas wants to test wheter a new promotion in this area 
-will bring an increase in business. Typically, about 3% of the Brooklyn population eats at Robertas each month. 
-After running the promotion for one month, 4000 of the 7600 targeted residents in Greenpoint went to eat at Robertas. 
-Did this happen by chance, or is there evidence that promotion brought in more customers?
+will bring an increase in business. Typically, about 310 residents in the targeted area eats at Robertas each month. 
+After running the promotion for one month, 350 residents from this area went to eat at Robertas. Was the promotion effective? Explain.
 
 12. Blue Bottle Coffee tested two new brewing methods, A and B, on a batch of single-orign beans to see which one, if any, produces the most caffeine.
 Method A was tested 13 times and Method B was tested 8 times. The following table gives the measured amount of caffeine (mg) 
-in an 8oz cup of coffee produced under each method. Assuming the observations from Method A are independent and 
-follow a normal distribution with mean mu_A and variance sigma^2, the observations from Method B are independent and 
-follow a normal distribution with mean mu_B and variance sigma^2, and that the observations from Method A are 
-independent of the observations from Method B, is there a difference between the two brewing methods?
+in an 8oz cup of coffee produced under each method. Assuming all observations are independent and the amount of caffeine produced by each method follows a normal distribution, how confident are you that the results between the two methods differ?
 
 	Method A | Method B
 ------------ | -------------

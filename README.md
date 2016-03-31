@@ -25,7 +25,7 @@ We'll be reviewing your commit history in evaluating your candidacy to the platf
 type your repo name in the field shown, and click submit. This will notify us that you're finished.
 
 ##Timeline
-You have 14 days to complete the data challenge from the time your Brooklyn Data Science candidate account was created. 
+There's no time limit, but we suggest completing the data challenge within 14 days from the time your Brooklyn Data Science candidate account was created. 
 
 ##Honor Code
 You can use any textbooks, online guides, etc. to complete the data challenge, but all of your answers to Part 1 and the work done 
